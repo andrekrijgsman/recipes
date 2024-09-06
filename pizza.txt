@@ -1,5 +1,6 @@
+Pizza recipe from nonna
+
 - flour
-- tomato paste
+- tomato paste / fresh tomatoes
 - salami
-- yeast
 - mozzarella
