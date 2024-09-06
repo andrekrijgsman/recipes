@@ -3,3 +3,5 @@
 - pecorino
 - grana padana
 - eggs
+- cooking water
+- guanciale
