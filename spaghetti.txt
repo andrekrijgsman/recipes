@@ -2,3 +2,4 @@
 - salt
 - pecorino
 - grana padana
+- eggs
