@@ -1,0 +1,4 @@
+- pasta
+- salt
+- pecorino
+- grana padana
